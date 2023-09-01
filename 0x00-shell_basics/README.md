@@ -1,1 +1,1 @@
-read me for shell basics
+This is all about shell basics
